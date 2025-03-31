@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743456277,
+	"version": 1743457696,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,12 @@
 		"images/fundo-sheet0.png",
 		"images/terra.png",
 		"images/sprite-sheet0.png",
+		"images/tree-sheet0.png",
+		"images/spawn1-sheet0.png",
+		"images/spawn2-sheet0.png",
+		"images/spawn3-sheet0.png",
+		"images/spawn4-sheet0.png",
+		"images/spawn5-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/ghost-sheet0.png",
@@ -20,7 +26,6 @@
 		"images/gun-sheet0.png",
 		"images/bullet-sheet0.png",
 		"images/mousesprite-sheet0.png",
-		"images/sprite2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
