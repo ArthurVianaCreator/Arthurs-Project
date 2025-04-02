@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743554187,
+	"version": 1743624564,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,13 +26,13 @@
 		"images/gun-sheet0.png",
 		"images/bullet-sheet0.png",
 		"images/ghost-sheet0.png",
-		"images/ghost2-sheet0.png",
-		"images/ghost2-sheet1.png",
+		"images/ghost-sheet1.png",
 		"images/ghostparticles.png",
-		"images/ghost2shoot-sheet0.png",
+		"images/ghost2-sheet0.png",
 		"images/logo-sheet0.png",
 		"images/playmenu-sheet0.png",
 		"images/fadein-sheet0.png",
+		"images/menughost-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
